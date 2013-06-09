@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="utf-8"?>
+<export version="D">
+    <design>
+        <source>/home/jason/Ubuntu One/Etherkit/git/CRX1/pcb/CRX1.sch</source>
+        <date>Sat 08 Jun 2013 02:28:20 PM PDT</date>
+        <tool>eeschema (2013-mar-13)-testing</tool>
+    </design>
+    <components>
+        <comp ref="R48">
+            <value>2.2</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195AB46</tstamp>
+        </comp>
+        <comp ref="C43">
+            <value>100u</value>
+            <libsource lib="NT7S" part="CP"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195AB8A</tstamp>
+        </comp>
+        <comp ref="R49">
+            <value>2.2</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195ABAB</tstamp>
+        </comp>
+        <comp ref="Q17">
+            <value>MMBT4403</value>
+            <libsource lib="NT7S" part="PNP"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195AC37</tstamp>
+        </comp>
+        <comp ref="Q16">
+            <value>MMBT4401</value>
+            <libsource lib="NT7S" part="NPN"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195AC55</tstamp>
+        </comp>
+        <comp ref="R47">
+            <value>47</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195AC94</tstamp>
+        </comp>
+        <comp ref="C42">
+            <value>100u</value>
+            <libsource lib="NT7S" part="CP"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195ACB9</tstamp>
+        </comp>
+        <comp ref="Q15">
+            <value>MMBT4401</value>
+            <libsource lib="NT7S" part="NPN"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195ACCA</tstamp>
+        </comp>
+        <comp ref="D7">
+            <value>LL4148</value>
+            <libsource lib="NT7S" part="DIODE"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195ACE5</tstamp>
+        </comp>
+        <comp ref="D8">
+            <value>LL4148</value>
+            <libsource lib="NT7S" part="DIODE"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195ACF6</tstamp>
+        </comp>
+        <comp ref="R45">
+            <value>4.7k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195AD00</tstamp>
+        </comp>
+        <comp ref="R38">
+            <value>3.3k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195ADD0</tstamp>
+        </comp>
+        <comp ref="Q12">
+            <value>MMBT4403</value>
+            <libsource lib="NT7S" part="PNP"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195ADF3</tstamp>
+        </comp>
+        <comp ref="R39">
+            <value>10k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195AE79</tstamp>
+        </comp>
+        <comp ref="Q11">
+            <value>MMBT4401</value>
+            <libsource lib="NT7S" part="NPN"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195AEB5</tstamp>
+        </comp>
+        <comp ref="C36">
+            <value>10n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195AECB</tstamp>
+        </comp>
+        <comp ref="R35">
+            <value>2.2k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195AF05</tstamp>
+        </comp>
+        <comp ref="C35">
+            <value>1u MLCC</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195AF2A</tstamp>
+        </comp>
+        <comp ref="R34">
+            <value>4.7k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195AFB5</tstamp>
+        </comp>
+        <comp ref="R30">
+            <value>47k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195AFC5</tstamp>
+        </comp>
+        <comp ref="R31">
+            <value>10k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195AFE1</tstamp>
+        </comp>
+        <comp ref="C34">
+            <value>10u</value>
+            <libsource lib="NT7S" part="CP"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195AFFF</tstamp>
+        </comp>
+        <comp ref="R33">
+            <value>47</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5195B005</tstamp>
+        </comp>
+        <comp ref="C32">
+            <value>1u MLCC</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197DD0F</tstamp>
+        </comp>
+        <comp ref="C37">
+            <value>1u MLCC</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197DE43</tstamp>
+        </comp>
+        <comp ref="C33">
+            <value>1u MLCC</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197DEE4</tstamp>
+        </comp>
+        <comp ref="Q13">
+            <value>MMBT4401</value>
+            <libsource lib="NT7S" part="NPN"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197DEEA</tstamp>
+        </comp>
+        <comp ref="C31">
+            <value>100n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197DEF0</tstamp>
+        </comp>
+        <comp ref="R43">
+            <value>3.3k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197DF2E</tstamp>
+        </comp>
+        <comp ref="R42">
+            <value>1k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197DF34</tstamp>
+        </comp>
+        <comp ref="D6">
+            <value>BZV55-B3V3</value>
+            <libsource lib="NT7S" part="ZENER"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197DF3C</tstamp>
+        </comp>
+        <comp ref="R46">
+            <value>4.7k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197E059</tstamp>
+        </comp>
+        <comp ref="R41">
+            <value>4.7k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197E07D</tstamp>
+        </comp>
+        <comp ref="C40">
+            <value>100n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197E08D</tstamp>
+        </comp>
+        <comp ref="C39">
+            <value>100n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197E093</tstamp>
+        </comp>
+        <comp ref="C41">
+            <value>100n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197E0FD</tstamp>
+        </comp>
+        <comp ref="C38">
+            <value>100n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197E108</tstamp>
+        </comp>
+        <comp ref="R44">
+            <value>680</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197E11E</tstamp>
+        </comp>
+        <comp ref="Q14">
+            <value>2N7002</value>
+            <libsource lib="NT7S" part="MOSFET_N"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197E135</tstamp>
+        </comp>
+        <comp ref="R40">
+            <value>100k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197E17D</tstamp>
+        </comp>
+        <comp ref="R29">
+            <value>10k audio</value>
+            <libsource lib="NT7S" part="POT"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197E297</tstamp>
+        </comp>
+        <comp ref="R36">
+            <value>1k trim</value>
+            <libsource lib="NT7S" part="POT"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197E70F</tstamp>
+        </comp>
+        <comp ref="R37">
+            <value>10k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197E742</tstamp>
+        </comp>
+        <comp ref="R32">
+            <value>10k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197E778</tstamp>
+        </comp>
+        <comp ref="JP2">
+            <value>Sidetone</value>
+            <libsource lib="NT7S" part="JUMPER"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197EAD6</tstamp>
+        </comp>
+        <comp ref="Q7">
+            <value>2N7002</value>
+            <libsource lib="NT7S" part="MOSFET_N"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197F7B9</tstamp>
+        </comp>
+        <comp ref="Q8">
+            <value>2N7002</value>
+            <libsource lib="NT7S" part="MOSFET_N"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197F7D3</tstamp>
+        </comp>
+        <comp ref="C30">
+            <value>4.7u MLCC</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197F7E3</tstamp>
+        </comp>
+        <comp ref="R26">
+            <value>100k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197F7FD</tstamp>
+        </comp>
+        <comp ref="Q6">
+            <value>2N7002</value>
+            <libsource lib="NT7S" part="MOSFET_N"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197F813</tstamp>
+        </comp>
+        <comp ref="R23">
+            <value>100k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197F81E</tstamp>
+        </comp>
+        <comp ref="D4">
+            <value>BAT46W</value>
+            <libsource lib="NT7S" part="DIODE"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197F844</tstamp>
+        </comp>
+        <comp ref="R24">
+            <value>100k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197F874</tstamp>
+        </comp>
+        <comp ref="C29">
+            <value>1u MLCC</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197F889</tstamp>
+        </comp>
+        <comp ref="C26">
+            <value>10n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5197F88F</tstamp>
+        </comp>
+        <comp ref="Q4">
+            <value>BF998</value>
+            <libsource lib="NT7S" part="DGMOS"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5198050F</tstamp>
+        </comp>
+        <comp ref="R16">
+            <value>1k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5198051C</tstamp>
+        </comp>
+        <comp ref="R15">
+            <value>47</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51980522</tstamp>
+        </comp>
+        <comp ref="C23">
+            <value>10u</value>
+            <libsource lib="NT7S" part="CP"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51980546</tstamp>
+        </comp>
+        <comp ref="R17">
+            <value>470</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5198056A</tstamp>
+        </comp>
+        <comp ref="R12">
+            <value>2.2k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519806B8</tstamp>
+        </comp>
+        <comp ref="R11">
+            <value>2.2k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519806CD</tstamp>
+        </comp>
+        <comp ref="Q1">
+            <value>MMBFJ310</value>
+            <libsource lib="NT7S" part="FET_N"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519806D5</tstamp>
+        </comp>
+        <comp ref="T1">
+            <value>FT37-43 6T:20T</value>
+            <libsource lib="NT7S" part="XMFR-STEPDOWN"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51980707</tstamp>
+        </comp>
+        <comp ref="R9">
+            <value>47</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5198072C</tstamp>
+        </comp>
+        <comp ref="R6">
+            <value>2.2k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51980751</tstamp>
+        </comp>
+        <comp ref="C8">
+            <value>33</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51980757</tstamp>
+        </comp>
+        <comp ref="C9">
+            <value>33</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5198075D</tstamp>
+        </comp>
+        <comp ref="C25">
+            <value>10u</value>
+            <libsource lib="NT7S" part="CP"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5198088D</tstamp>
+        </comp>
+        <comp ref="R3">
+            <value>100k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5198089F</tstamp>
+        </comp>
+        <comp ref="C13">
+            <value>22</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519808A5</tstamp>
+        </comp>
+        <comp ref="C7">
+            <value>100n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519808CE</tstamp>
+        </comp>
+        <comp ref="X2">
+            <value>4.032 MHz</value>
+            <libsource lib="NT7S" part="CRYSTAL"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519808E6</tstamp>
+        </comp>
+        <comp ref="C2">
+            <value>45</value>
+            <libsource lib="NT7S" part="CTRIM"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519808F5</tstamp>
+        </comp>
+        <comp ref="R5">
+            <value>47</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51981F71</tstamp>
+        </comp>
+        <comp ref="C12">
+            <value>100n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51981F7D</tstamp>
+        </comp>
+        <comp ref="Q2">
+            <value>MMBT4401</value>
+            <libsource lib="NT7S" part="NPN"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51981FD3</tstamp>
+        </comp>
+        <comp ref="R7">
+            <value>100k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51981FE3</tstamp>
+        </comp>
+        <comp ref="R10">
+            <value>1k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5198279C</tstamp>
+        </comp>
+        <comp ref="C18">
+            <value>100n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519827BB</tstamp>
+        </comp>
+        <comp ref="L3">
+            <value>10u</value>
+            <libsource lib="NT7S" part="L"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51982B35</tstamp>
+        </comp>
+        <comp ref="X4">
+            <value>4.032 MHz</value>
+            <libsource lib="NT7S" part="CRYSTAL"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51982B5B</tstamp>
+        </comp>
+        <comp ref="X3">
+            <value>4.032 MHz</value>
+            <libsource lib="NT7S" part="CRYSTAL"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51982B61</tstamp>
+        </comp>
+        <comp ref="X1">
+            <value>4.032 MHz</value>
+            <libsource lib="NT7S" part="CRYSTAL"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51982B71</tstamp>
+        </comp>
+        <comp ref="C10">
+            <value>220</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51982BBC</tstamp>
+        </comp>
+        <comp ref="C6">
+            <value>68</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51982BC2</tstamp>
+        </comp>
+        <comp ref="C4">
+            <value>68</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51982BC8</tstamp>
+        </comp>
+        <comp ref="C1">
+            <value>39</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51982BCE</tstamp>
+        </comp>
+        <comp ref="P2">
+            <value>BFO</value>
+            <libsource lib="device" part="TST"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519839A0</tstamp>
+        </comp>
+        <comp ref="P1">
+            <value>XTAL GND</value>
+            <libsource lib="device" part="TST"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983AAA</tstamp>
+        </comp>
+        <comp ref="P4">
+            <value>Sidetone</value>
+            <libsource lib="device" part="TST"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983BA5</tstamp>
+        </comp>
+        <comp ref="J1">
+            <value>ANT</value>
+            <libsource lib="NT7S" part="BNC"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983C9D</tstamp>
+        </comp>
+        <comp ref="C3">
+            <value>47</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983CAA</tstamp>
+        </comp>
+        <comp ref="D1">
+            <value>BAV99</value>
+            <libsource lib="NT7S" part="DIODE-DUALOPP"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983CBC</tstamp>
+        </comp>
+        <comp ref="D2">
+            <value>BAV99</value>
+            <libsource lib="NT7S" part="DIODE-DUALOPP"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983CC9</tstamp>
+        </comp>
+        <comp ref="L1">
+            <value>T50-2 47T</value>
+            <libsource lib="NT7S" part="L-IRONCORE"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983CD1</tstamp>
+        </comp>
+        <comp ref="L4">
+            <value>T37-2 25T</value>
+            <libsource lib="NT7S" part="L-IRONCORE"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983D21</tstamp>
+        </comp>
+        <comp ref="C11">
+            <value>100</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983D2E</tstamp>
+        </comp>
+        <comp ref="C14">
+            <value>45</value>
+            <libsource lib="NT7S" part="CTRIM"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983D34</tstamp>
+        </comp>
+        <comp ref="C19">
+            <value>4.7</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983D3A</tstamp>
+        </comp>
+        <comp ref="C20">
+            <value>45</value>
+            <libsource lib="NT7S" part="CTRIM"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983D7C</tstamp>
+        </comp>
+        <comp ref="C21">
+            <value>150</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983D82</tstamp>
+        </comp>
+        <comp ref="L5">
+            <value>T37-2 25T</value>
+            <libsource lib="NT7S" part="L-IRONCORE"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983DA6</tstamp>
+        </comp>
+        <comp ref="Q5">
+            <value>BF998</value>
+            <libsource lib="NT7S" part="DGMOS"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983DAC</tstamp>
+        </comp>
+        <comp ref="R19">
+            <value>10k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983DBC</tstamp>
+        </comp>
+        <comp ref="R22">
+            <value>470</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983DC8</tstamp>
+        </comp>
+        <comp ref="C28">
+            <value>100n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983D6D</tstamp>
+        </comp>
+        <comp ref="R21">
+            <value>1k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983D6E</tstamp>
+        </comp>
+        <comp ref="R20">
+            <value>47</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983DE9</tstamp>
+        </comp>
+        <comp ref="R18">
+            <value>100k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983E13</tstamp>
+        </comp>
+        <comp ref="C27">
+            <value>100n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983EB9</tstamp>
+        </comp>
+        <comp ref="J2">
+            <value>EXT VFO</value>
+            <libsource lib="conn" part="CONN_2"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5198662F</tstamp>
+        </comp>
+        <comp ref="Q3">
+            <value>MMBFJ310</value>
+            <libsource lib="NT7S" part="FET_N"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519868C6</tstamp>
+        </comp>
+        <comp ref="R14">
+            <value>680</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519868D8</tstamp>
+        </comp>
+        <comp ref="C16">
+            <value>68</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519868DE</tstamp>
+        </comp>
+        <comp ref="C17">
+            <value>68</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519868E4</tstamp>
+        </comp>
+        <comp ref="R8">
+            <value>100k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519868EA</tstamp>
+        </comp>
+        <comp ref="C22">
+            <value>100n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519868F0</tstamp>
+        </comp>
+        <comp ref="C15">
+            <value>100n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519868F6</tstamp>
+        </comp>
+        <comp ref="X6">
+            <value>11.059 MHz</value>
+            <libsource lib="NT7S" part="CRYSTAL"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51986902</tstamp>
+        </comp>
+        <comp ref="R13">
+            <value>47</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51986961</tstamp>
+        </comp>
+        <comp ref="L2">
+            <value>1u</value>
+            <libsource lib="NT7S" part="L"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5198698C</tstamp>
+        </comp>
+        <comp ref="D3">
+            <value>GS1M</value>
+            <libsource lib="NT7S" part="DIODE"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5198699B</tstamp>
+        </comp>
+        <comp ref="R4">
+            <value>100k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519869D1</tstamp>
+        </comp>
+        <comp ref="C5">
+            <value>100n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519869D7</tstamp>
+        </comp>
+        <comp ref="X5">
+            <value>11.059 MHz</value>
+            <libsource lib="NT7S" part="CRYSTAL"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519869E3</tstamp>
+        </comp>
+        <comp ref="R1">
+            <value>100k</value>
+            <libsource lib="NT7S" part="POT"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519869E9</tstamp>
+        </comp>
+        <comp ref="R2">
+            <value>3.3k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51986A21</tstamp>
+        </comp>
+        <comp ref="C24">
+            <value>100n</value>
+            <libsource lib="NT7S" part="C"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51986BCC</tstamp>
+        </comp>
+        <comp ref="Q10">
+            <value>MMBT4403</value>
+            <libsource lib="NT7S" part="PNP"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519887A3</tstamp>
+        </comp>
+        <comp ref="R28">
+            <value>22k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519887B3</tstamp>
+        </comp>
+        <comp ref="R25">
+            <value>22k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519887B9</tstamp>
+        </comp>
+        <comp ref="JP1">
+            <value>VXO Power</value>
+            <libsource lib="NT7S" part="JUMPER"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51989420</tstamp>
+        </comp>
+        <comp ref="P3">
+            <value>VXO</value>
+            <libsource lib="device" part="TST"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>519899F8</tstamp>
+        </comp>
+        <comp ref="Q9">
+            <value>IRLML9301</value>
+            <libsource lib="NT7S" part="MOS_P"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51982E2D</tstamp>
+        </comp>
+        <comp ref="R27">
+            <value>100k</value>
+            <libsource lib="NT7S" part="R"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51982E5D</tstamp>
+        </comp>
+        <comp ref="D5">
+            <value>BZV55-B15</value>
+            <libsource lib="NT7S" part="ZENER"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51982E69</tstamp>
+        </comp>
+        <comp ref="P5">
+            <value>GND</value>
+            <libsource lib="device" part="TST"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983DDD</tstamp>
+        </comp>
+        <comp ref="J5">
+            <value>Phones</value>
+            <libsource lib="NT7S" part="PHONES"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983F90</tstamp>
+        </comp>
+        <comp ref="J3">
+            <value>Key Line</value>
+            <libsource lib="NT7S" part="PHONES"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>51983FD1</tstamp>
+        </comp>
+        <comp ref="J4">
+            <value>+12 VDC</value>
+            <libsource lib="conn" part="CONN_2"/>
+            <sheetpath names="/" tstamps="/"/>
+            <tstamp>5198469B</tstamp>
+        </comp>
+    </components>
+    <libparts>
+        <libpart lib="NT7S" part="BNC">
+            <fields>
+                <field name="Reference">P</field>
+                <field name="Value">BNC</field>
+            </fields>
+            <pins>
+                <pin num="1" name="In" type="passive"/>
+                <pin num="2" name="Ext" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="C">
+            <description>Capacitor</description>
+            <footprints>
+                <fp>R?</fp>
+                <fp>SM0603</fp>
+                <fp>SM0805</fp>
+                <fp>R?-*</fp>
+            </footprints>
+            <fields>
+                <field name="Reference">C</field>
+                <field name="Value">C</field>
+            </fields>
+            <pins>
+                <pin num="1" name="~" type="passive"/>
+                <pin num="2" name="~" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="CP">
+            <description>Electrolytic Capacitor</description>
+            <footprints>
+                <fp>CP*</fp>
+                <fp>SM*</fp>
+            </footprints>
+            <fields>
+                <field name="Reference">C</field>
+                <field name="Value">CP</field>
+            </fields>
+            <pins>
+                <pin num="1" name="~" type="passive"/>
+                <pin num="2" name="~" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="CRYSTAL">
+            <fields>
+                <field name="Reference">X</field>
+                <field name="Value">CRYSTAL</field>
+            </fields>
+            <pins>
+                <pin num="1" name="1" type="passive"/>
+                <pin num="2" name="2" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="CTRIM">
+            <fields>
+                <field name="Reference">C</field>
+                <field name="Value">CTRIM</field>
+            </fields>
+            <pins>
+                <pin num="1" name="~" type="passive"/>
+                <pin num="2" name="~" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="DGMOS">
+            <docs>transistors/mos/*.*</docs>
+            <fields>
+                <field name="Reference">Q</field>
+                <field name="Value">DGMOS</field>
+            </fields>
+            <pins>
+                <pin num="1" name="S" type="passive"/>
+                <pin num="2" name="D" type="passive"/>
+                <pin num="3" name="G2" type="passive"/>
+                <pin num="4" name="G1" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="DIODE">
+            <description>Diode simple</description>
+            <footprints>
+                <fp>D?</fp>
+                <fp>S*</fp>
+            </footprints>
+            <fields>
+                <field name="Reference">D</field>
+                <field name="Value">DIODE</field>
+            </fields>
+            <pins>
+                <pin num="1" name="A" type="passive"/>
+                <pin num="2" name="K" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="DIODE-DUALOPP">
+            <description>Diode simple</description>
+            <footprints>
+                <fp>D?</fp>
+                <fp>S*</fp>
+            </footprints>
+            <fields>
+                <field name="Reference">D</field>
+                <field name="Value">DIODE-DUALOPP</field>
+            </fields>
+            <pins>
+                <pin num="1" name="1" type="passive"/>
+                <pin num="2" name="2" type="passive"/>
+                <pin num="3" name="3" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="FET_N">
+            <fields>
+                <field name="Reference">Q</field>
+                <field name="Value">FET_N</field>
+            </fields>
+            <pins>
+                <pin num="1" name="S" type="passive"/>
+                <pin num="2" name="G" type="input"/>
+                <pin num="3" name="D" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="JUMPER">
+            <fields>
+                <field name="Reference">JP</field>
+                <field name="Value">JUMPER</field>
+            </fields>
+            <pins>
+                <pin num="1" name="1" type="passive"/>
+                <pin num="2" name="2" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="L">
+            <description>Iron Core Inductor</description>
+            <fields>
+                <field name="Reference">L</field>
+                <field name="Value">L</field>
+            </fields>
+            <pins>
+                <pin num="1" name="1" type="passive"/>
+                <pin num="2" name="2" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="L-IRONCORE">
+            <description>Iron Core Inductor</description>
+            <fields>
+                <field name="Reference">L</field>
+                <field name="Value">L-IRONCORE</field>
+            </fields>
+            <pins>
+                <pin num="1" name="1" type="passive"/>
+                <pin num="2" name="2" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="MOS_N">
+            <docs>transistors/mos/*.*</docs>
+            <fields>
+                <field name="Reference">Q</field>
+                <field name="Value">MOS_N</field>
+            </fields>
+            <pins>
+                <pin num="1" name="S" type="passive"/>
+                <pin num="2" name="G" type="input"/>
+                <pin num="3" name="D" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="MOS_P">
+            <docs>transistors/mos/*.*</docs>
+            <fields>
+                <field name="Reference">Q</field>
+                <field name="Value">MOS_P</field>
+            </fields>
+            <pins>
+                <pin num="1" name="S" type="passive"/>
+                <pin num="2" name="G" type="input"/>
+                <pin num="3" name="D" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="NPN">
+            <description>Bipolar NPN Transistor</description>
+            <docs>transistors/bipolar/*.*</docs>
+            <fields>
+                <field name="Reference">Q</field>
+                <field name="Value">NPN</field>
+            </fields>
+            <pins>
+                <pin num="1" name="E" type="passive"/>
+                <pin num="2" name="B" type="input"/>
+                <pin num="3" name="C" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="PHONES">
+            <description>3-Conductor Stereo Phone Jack</description>
+            <fields>
+                <field name="Reference">J</field>
+                <field name="Value">PHONES</field>
+            </fields>
+            <pins>
+                <pin num="1" name="~" type="passive"/>
+                <pin num="2" name="~" type="passive"/>
+                <pin num="3" name="~" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="PNP">
+            <description>Bipolar PNP Transistor</description>
+            <docs>transistors/bipolar/*.*</docs>
+            <fields>
+                <field name="Reference">Q</field>
+                <field name="Value">PNP</field>
+            </fields>
+            <pins>
+                <pin num="1" name="E" type="passive"/>
+                <pin num="2" name="B" type="input"/>
+                <pin num="3" name="C" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="POT">
+            <description>Resistance</description>
+            <footprints>
+                <fp>R?</fp>
+                <fp>SM0603</fp>
+                <fp>SM0805</fp>
+                <fp>R?-*</fp>
+            </footprints>
+            <fields>
+                <field name="Reference">R</field>
+                <field name="Value">POT</field>
+            </fields>
+            <pins>
+                <pin num="1" name="~" type="passive"/>
+                <pin num="2" name="~" type="passive"/>
+                <pin num="3" name="~" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="R">
+            <description>Resistance</description>
+            <footprints>
+                <fp>R?</fp>
+                <fp>SM0603</fp>
+                <fp>SM0805</fp>
+                <fp>R?-*</fp>
+            </footprints>
+            <fields>
+                <field name="Reference">R</field>
+                <field name="Value">R</field>
+            </fields>
+            <pins>
+                <pin num="1" name="~" type="passive"/>
+                <pin num="2" name="~" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="XMFR-STEPDOWN">
+            <description>Step-Down Transformer</description>
+            <fields>
+                <field name="Reference">T</field>
+                <field name="Value">XMFR-STEPDOWN</field>
+            </fields>
+            <pins>
+                <pin num="1" name="1" type="passive"/>
+                <pin num="2" name="2" type="passive"/>
+                <pin num="3" name="3" type="passive"/>
+                <pin num="4" name="4" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="NT7S" part="ZENER">
+            <description>Diode zener</description>
+            <footprints>
+                <fp>D?</fp>
+                <fp>SO*</fp>
+                <fp>SM*</fp>
+            </footprints>
+            <fields>
+                <field name="Reference">D</field>
+                <field name="Value">ZENER</field>
+            </fields>
+            <pins>
+                <pin num="1" name="A" type="passive"/>
+                <pin num="2" name="K" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="device" part="TST">
+            <fields>
+                <field name="Reference">P</field>
+                <field name="Value">TST</field>
+            </fields>
+            <pins>
+                <pin num="1" name="~" type="passive"/>
+            </pins>
+        </libpart>
+        <libpart lib="conn" part="CONN_2">
+            <description>Symbole general de connecteur</description>
+            <fields>
+                <field name="Reference">P</field>
+                <field name="Value">CONN_2</field>
+            </fields>
+            <pins>
+                <pin num="1" name="P1" type="passive"/>
+                <pin num="2" name="PM" type="passive"/>
+            </pins>
+        </libpart>
+    </libparts>
+    <libraries>
+        <library logical="NT7S">
+            <uri>/home/jason/Ubuntu One/Etherkit/Kicad/NT7S.lib</uri>
+        </library>
+        <library logical="device">
+            <uri>/usr/share/kicad/library/device.lib</uri>
+        </library>
+        <library logical="conn">
+            <uri>/usr/share/kicad/library/conn.lib</uri>
+        </library>
+    </libraries>
+    <nets>
+        <net code="1" name="">
+            <node ref="L1" pin="2"/>
+            <node ref="L4" pin="1"/>
+            <node ref="C11" pin="1"/>
+            <node ref="C19" pin="1"/>
+            <node ref="C14" pin="1"/>
+        </net>
+        <net code="2" name="">
+            <node ref="C21" pin="1"/>
+            <node ref="R19" pin="1"/>
+            <node ref="Q5" pin="4"/>
+            <node ref="L5" pin="1"/>
+            <node ref="C20" pin="1"/>
+            <node ref="C19" pin="2"/>
+        </net>
+        <net code="3" name="">
+            <node ref="R22" pin="1"/>
+            <node ref="Q5" pin="1"/>
+            <node ref="C28" pin="1"/>
+        </net>
+        <net code="4" name="">
+            <node ref="C10" pin="1"/>
+            <node ref="L3" pin="1"/>
+            <node ref="X4" pin="2"/>
+        </net>
+        <net code="5" name="">
+            <node ref="X4" pin="1"/>
+            <node ref="X3" pin="2"/>
+            <node ref="C6" pin="1"/>
+        </net>
+        <net code="6" name="GND">
+            <node ref="C17" pin="2"/>
+            <node ref="C5" pin="2"/>
+            <node ref="D3" pin="1"/>
+            <node ref="R36" pin="3"/>
+            <node ref="R29" pin="3"/>
+            <node ref="D6" pin="1"/>
+            <node ref="R8" pin="2"/>
+            <node ref="C31" pin="2"/>
+            <node ref="Q13" pin="1"/>
+            <node ref="C37" pin="2"/>
+            <node ref="R14" pin="2"/>
+            <node ref="C15" pin="2"/>
+            <node ref="R2" pin="2"/>
+            <node ref="J4" pin="2"/>
+            <node ref="J3" pin="3"/>
+            <node ref="J5" pin="3"/>
+            <node ref="P5" pin="1"/>
+            <node ref="J2" pin="2"/>
+            <node ref="R27" pin="2"/>
+            <node ref="C2" pin="2"/>
+            <node ref="C7" pin="2"/>
+            <node ref="R3" pin="2"/>
+            <node ref="C25" pin="2"/>
+            <node ref="R12" pin="2"/>
+            <node ref="R17" pin="2"/>
+            <node ref="C23" pin="2"/>
+            <node ref="C9" pin="2"/>
+            <node ref="C26" pin="2"/>
+            <node ref="R24" pin="2"/>
+            <node ref="Q6" pin="1"/>
+            <node ref="C30" pin="2"/>
+            <node ref="Q8" pin="1"/>
+            <node ref="R35" pin="2"/>
+            <node ref="R45" pin="2"/>
+            <node ref="C42" pin="2"/>
+            <node ref="Q17" pin="3"/>
+            <node ref="C34" pin="2"/>
+            <node ref="R31" pin="2"/>
+            <node ref="C35" pin="2"/>
+            <node ref="R39" pin="2"/>
+            <node ref="L5" pin="2"/>
+            <node ref="Q14" pin="1"/>
+            <node ref="C39" pin="2"/>
+            <node ref="C40" pin="2"/>
+            <node ref="R6" pin="2"/>
+            <node ref="T1" pin="2"/>
+            <node ref="R11" pin="2"/>
+            <node ref="C10" pin="2"/>
+            <node ref="C12" pin="2"/>
+            <node ref="C6" pin="2"/>
+            <node ref="R10" pin="2"/>
+            <node ref="C18" pin="2"/>
+            <node ref="C1" pin="2"/>
+            <node ref="C4" pin="2"/>
+            <node ref="C27" pin="2"/>
+            <node ref="D2" pin="3"/>
+            <node ref="J1" pin="2"/>
+            <node ref="P1" pin="1"/>
+            <node ref="C28" pin="2"/>
+            <node ref="R22" pin="2"/>
+            <node ref="R19" pin="2"/>
+            <node ref="C21" pin="2"/>
+            <node ref="C20" pin="2"/>
+            <node ref="C14" pin="2"/>
+            <node ref="C11" pin="2"/>
+            <node ref="L4" pin="2"/>
+            <node ref="R18" pin="2"/>
+        </net>
+        <net code="7" name="+12V">
+            <node ref="R1" pin="1"/>
+            <node ref="R9" pin="2"/>
+            <node ref="R26" pin="2"/>
+            <node ref="R33" pin="1"/>
+            <node ref="R5" pin="1"/>
+            <node ref="R42" pin="1"/>
+            <node ref="R47" pin="1"/>
+            <node ref="R15" pin="1"/>
+            <node ref="R20" pin="1"/>
+            <node ref="Q9" pin="1"/>
+            <node ref="JP1" pin="2"/>
+            <node ref="R28" pin="2"/>
+            <node ref="Q10" pin="1"/>
+            <node ref="D5" pin="2"/>
+        </net>
+        <net code="8" name="">
+            <node ref="J1" pin="1"/>
+            <node ref="C3" pin="1"/>
+        </net>
+        <net code="9" name="">
+            <node ref="L1" pin="1"/>
+            <node ref="D1" pin="3"/>
+            <node ref="C3" pin="2"/>
+        </net>
+        <net code="10" name="">
+            <node ref="D2" pin="1"/>
+            <node ref="D1" pin="2"/>
+        </net>
+        <net code="11" name="">
+            <node ref="D2" pin="2"/>
+            <node ref="D1" pin="1"/>
+        </net>
+        <net code="12" name="">
+            <node ref="R20" pin="2"/>
+            <node ref="C27" pin="1"/>
+            <node ref="R21" pin="1"/>
+        </net>
+        <net code="13" name="IF">
+            <node ref="R21" pin="2"/>
+            <node ref="Q5" pin="2"/>
+            <node ref="C1" pin="1"/>
+            <node ref="X1" pin="1"/>
+        </net>
+        <net code="14" name="VXO">
+            <node ref="C22" pin="2"/>
+            <node ref="P3" pin="1"/>
+            <node ref="C24" pin="2"/>
+            <node ref="R18" pin="1"/>
+            <node ref="Q5" pin="3"/>
+        </net>
+        <net code="15" name="">
+            <node ref="R5" pin="2"/>
+            <node ref="T1" pin="3"/>
+            <node ref="C12" pin="1"/>
+        </net>
+        <net code="16" name="">
+            <node ref="T1" pin="4"/>
+            <node ref="R7" pin="1"/>
+            <node ref="Q2" pin="3"/>
+        </net>
+        <net code="17" name="">
+            <node ref="C13" pin="1"/>
+            <node ref="C8" pin="2"/>
+            <node ref="C9" pin="1"/>
+            <node ref="R6" pin="1"/>
+            <node ref="Q1" pin="1"/>
+        </net>
+        <net code="18" name="">
+            <node ref="R9" pin="1"/>
+            <node ref="C7" pin="1"/>
+            <node ref="Q1" pin="3"/>
+        </net>
+        <net code="19" name="">
+            <node ref="Q1" pin="2"/>
+            <node ref="C8" pin="1"/>
+            <node ref="R3" pin="1"/>
+            <node ref="X2" pin="2"/>
+        </net>
+        <net code="20" name="">
+            <node ref="X2" pin="1"/>
+            <node ref="C2" pin="1"/>
+        </net>
+        <net code="21" name="">
+            <node ref="X1" pin="2"/>
+            <node ref="X3" pin="1"/>
+            <node ref="C4" pin="1"/>
+        </net>
+        <net code="22" name="">
+            <node ref="Q2" pin="2"/>
+            <node ref="L3" pin="2"/>
+            <node ref="R7" pin="2"/>
+        </net>
+        <net code="23" name="">
+            <node ref="R10" pin="1"/>
+            <node ref="C18" pin="1"/>
+            <node ref="Q2" pin="1"/>
+        </net>
+        <net code="24" name="">
+            <node ref="C15" pin="1"/>
+            <node ref="R13" pin="2"/>
+            <node ref="Q3" pin="3"/>
+        </net>
+        <net code="25" name="Key">
+            <node ref="Q10" pin="3"/>
+            <node ref="JP2" pin="1"/>
+            <node ref="Q8" pin="2"/>
+            <node ref="R23" pin="1"/>
+            <node ref="D4" pin="1"/>
+            <node ref="R24" pin="1"/>
+        </net>
+        <net code="26" name="">
+            <node ref="R25" pin="2"/>
+            <node ref="R28" pin="1"/>
+            <node ref="Q10" pin="2"/>
+        </net>
+        <net code="27" name="">
+            <node ref="L2" pin="1"/>
+            <node ref="X5" pin="1"/>
+            <node ref="X6" pin="1"/>
+        </net>
+        <net code="28" name="">
+            <node ref="J3" pin="2"/>
+            <node ref="J3" pin="1"/>
+            <node ref="R25" pin="1"/>
+        </net>
+        <net code="29" name="">
+            <node ref="C24" pin="1"/>
+            <node ref="J2" pin="1"/>
+        </net>
+        <net code="30" name="">
+            <node ref="D3" pin="2"/>
+            <node ref="L2" pin="2"/>
+            <node ref="R4" pin="2"/>
+        </net>
+        <net code="31" name="">
+            <node ref="R4" pin="1"/>
+            <node ref="C5" pin="1"/>
+            <node ref="R1" pin="2"/>
+        </net>
+        <net code="32" name="">
+            <node ref="R1" pin="3"/>
+            <node ref="R2" pin="1"/>
+        </net>
+        <net code="33" name="">
+            <node ref="J5" pin="1"/>
+            <node ref="C43" pin="2"/>
+            <node ref="J5" pin="2"/>
+        </net>
+        <net code="34" name="">
+            <node ref="Q9" pin="3"/>
+            <node ref="J4" pin="1"/>
+        </net>
+        <net code="35" name="">
+            <node ref="D5" pin="1"/>
+            <node ref="R27" pin="1"/>
+            <node ref="Q9" pin="2"/>
+        </net>
+        <net code="36" name="">
+            <node ref="JP1" pin="1"/>
+            <node ref="R13" pin="1"/>
+        </net>
+        <net code="37" name="">
+            <node ref="X5" pin="2"/>
+            <node ref="C16" pin="1"/>
+            <node ref="Q3" pin="2"/>
+            <node ref="R8" pin="1"/>
+            <node ref="X6" pin="2"/>
+        </net>
+        <net code="38" name="">
+            <node ref="C22" pin="1"/>
+            <node ref="R14" pin="1"/>
+            <node ref="C17" pin="1"/>
+            <node ref="Q3" pin="1"/>
+            <node ref="C16" pin="2"/>
+        </net>
+        <net code="39" name="">
+            <node ref="R32" pin="1"/>
+            <node ref="C33" pin="2"/>
+        </net>
+        <net code="40" name="">
+            <node ref="C37" pin="1"/>
+            <node ref="Q12" pin="1"/>
+            <node ref="R38" pin="2"/>
+        </net>
+        <net code="41" name="">
+            <node ref="R31" pin="1"/>
+            <node ref="R30" pin="2"/>
+            <node ref="C32" pin="2"/>
+            <node ref="C33" pin="1"/>
+            <node ref="Q11" pin="2"/>
+        </net>
+        <net code="42" name="">
+            <node ref="C31" pin="1"/>
+            <node ref="C32" pin="1"/>
+            <node ref="R29" pin="2"/>
+        </net>
+        <net code="43" name="">
+            <node ref="R35" pin="1"/>
+            <node ref="C35" pin="1"/>
+            <node ref="Q11" pin="1"/>
+        </net>
+        <net code="44" name="">
+            <node ref="Q11" pin="3"/>
+            <node ref="Q12" pin="2"/>
+            <node ref="R34" pin="2"/>
+            <node ref="C36" pin="1"/>
+        </net>
+        <net code="45" name="">
+            <node ref="C34" pin="1"/>
+            <node ref="R33" pin="2"/>
+            <node ref="R34" pin="1"/>
+            <node ref="R30" pin="1"/>
+        </net>
+        <net code="46" name="">
+            <node ref="R36" pin="1"/>
+            <node ref="R37" pin="1"/>
+        </net>
+        <net code="47" name="">
+            <node ref="C40" pin="1"/>
+            <node ref="C39" pin="1"/>
+            <node ref="R41" pin="2"/>
+            <node ref="R46" pin="1"/>
+            <node ref="P4" pin="1"/>
+            <node ref="R37" pin="2"/>
+        </net>
+        <net code="48" name="">
+            <node ref="R36" pin="2"/>
+            <node ref="R32" pin="2"/>
+        </net>
+        <net code="49" name="">
+            <node ref="JP2" pin="2"/>
+            <node ref="R40" pin="1"/>
+        </net>
+        <net code="50" name="">
+            <node ref="Q13" pin="2"/>
+            <node ref="C38" pin="1"/>
+            <node ref="R41" pin="1"/>
+        </net>
+        <net code="51" name="">
+            <node ref="C41" pin="2"/>
+            <node ref="Q13" pin="3"/>
+            <node ref="R43" pin="2"/>
+            <node ref="R46" pin="2"/>
+        </net>
+        <net code="52" name="">
+            <node ref="R40" pin="2"/>
+            <node ref="Q14" pin="2"/>
+        </net>
+        <net code="53" name="">
+            <node ref="R44" pin="2"/>
+            <node ref="Q14" pin="3"/>
+        </net>
+        <net code="54" name="">
+            <node ref="Q15" pin="2"/>
+            <node ref="Q12" pin="3"/>
+            <node ref="C36" pin="2"/>
+            <node ref="R39" pin="1"/>
+        </net>
+        <net code="55" name="">
+            <node ref="R49" pin="1"/>
+            <node ref="C43" pin="1"/>
+            <node ref="R48" pin="2"/>
+        </net>
+        <net code="56" name="">
+            <node ref="R49" pin="2"/>
+            <node ref="Q17" pin="1"/>
+        </net>
+        <net code="57" name="">
+            <node ref="Q17" pin="2"/>
+            <node ref="R45" pin="1"/>
+            <node ref="D8" pin="2"/>
+        </net>
+        <net code="58" name="">
+            <node ref="Q16" pin="1"/>
+            <node ref="R48" pin="1"/>
+        </net>
+        <net code="59" name="">
+            <node ref="D7" pin="1"/>
+            <node ref="Q16" pin="2"/>
+            <node ref="Q15" pin="1"/>
+        </net>
+        <net code="60" name="">
+            <node ref="Q15" pin="3"/>
+            <node ref="R47" pin="2"/>
+            <node ref="C42" pin="1"/>
+            <node ref="R38" pin="1"/>
+            <node ref="Q16" pin="3"/>
+        </net>
+        <net code="61" name="">
+            <node ref="D8" pin="1"/>
+            <node ref="D7" pin="2"/>
+        </net>
+        <net code="62" name="">
+            <node ref="Q4" pin="3"/>
+            <node ref="R11" pin="1"/>
+            <node ref="C13" pin="2"/>
+            <node ref="P2" pin="1"/>
+        </net>
+        <net code="63" name="">
+            <node ref="D4" pin="2"/>
+            <node ref="Q6" pin="2"/>
+            <node ref="R23" pin="2"/>
+        </net>
+        <net code="64" name="">
+            <node ref="Q7" pin="3"/>
+            <node ref="C29" pin="2"/>
+            <node ref="Q6" pin="3"/>
+        </net>
+        <net code="65" name="">
+            <node ref="R15" pin="2"/>
+            <node ref="C23" pin="1"/>
+            <node ref="R16" pin="1"/>
+        </net>
+        <net code="66" name="">
+            <node ref="Q4" pin="4"/>
+            <node ref="R12" pin="1"/>
+            <node ref="T1" pin="1"/>
+        </net>
+        <net code="67" name="">
+            <node ref="C26" pin="1"/>
+            <node ref="C29" pin="1"/>
+            <node ref="R16" pin="2"/>
+            <node ref="Q4" pin="2"/>
+        </net>
+        <net code="68" name="">
+            <node ref="R17" pin="1"/>
+            <node ref="C25" pin="1"/>
+            <node ref="Q4" pin="1"/>
+        </net>
+        <net code="69" name="">
+            <node ref="R44" pin="1"/>
+            <node ref="C38" pin="2"/>
+            <node ref="C41" pin="1"/>
+        </net>
+        <net code="70" name="">
+            <node ref="R29" pin="1"/>
+            <node ref="Q7" pin="1"/>
+        </net>
+        <net code="71" name="">
+            <node ref="D6" pin="2"/>
+            <node ref="R42" pin="2"/>
+            <node ref="R43" pin="1"/>
+        </net>
+        <net code="72" name="">
+            <node ref="R26" pin="1"/>
+            <node ref="Q7" pin="2"/>
+            <node ref="C30" pin="1"/>
+            <node ref="Q8" pin="3"/>
+        </net>
+    </nets>
+</export>

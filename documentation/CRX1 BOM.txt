@@ -1,0 +1,85 @@
+CRX1 BOM
+Etherkit
+8 Jun 2013
+
+| Part (marking)                  | Qty  | Ref                            | P/N
+======================================================================================================
+Capacitors (all values pF unless specified)
+| 4.7                               1      C19
+| 22                                1      C13
+| 33                                2      C8, C9
+| 39                                1      C1
+| 45 trim                           3      C2, C14, C20
+| 47                                1      C3       
+| 68                                4      C4, C6, C16, C17
+| 100                               1      C11
+| 150                               1      C21
+| 220                               1      C10
+| 10n                               2      C26, C36   
+| 100n                              14     C5, C7, C12, C15, C18, C22,
+                                           C24, C27, C28, C31, C38,
+                                           C39, C40, C41
+| 1u MLCC                           5      C29, C32, C33, C35, C37        
+| 4.7u MLCC                         1      C30       
+| 10u electrolytic                  3      C23, C25, C34       
+| 100u electrolytic                 2      C42, C43            
+
+Diodes
+| BAT46W                            1      D4        
+| BAV99                             2      D1, D2
+| BZV55-B3V3                        1      D6       
+| BZV55-B15                         1      D5
+| GS1M                              1      D3
+| LL4148                            2      D7, D8
+
+Connectors        
+| 3.5 mm stereo                     2      J3, J5                           Kobiconn 161-3402-E
+| 2.1 mm barrel jack - +12VDC       1      J4                               Kobiconn 163-4304-E
+| BNC                               1      J1                               TE 227754-2
+
+Inductors
+| 1u                                1      L2
+| 10u                               1      L3        
+| T37-2 25T                         2      L4, L5
+| T50-2 47T                         1      L1   
+
+Transistors       
+| 2N7002                            4      Q6, Q7, Q8, Q14
+| BF998                             2      Q4, Q5       
+| MMBFJ310                          2      Q1, Q3
+| MMBT4401                          5      Q11, Q13, Q15, Q16, Q2
+| MMBT4403                          3      Q10, Q12, Q17        
+| IRLML9301                         1      Q9       
+
+Resistors (all resistors 0.1 watt 0805 unless specified)
+| 2.2                               2      R48, R49
+| 47                                7      R5, R9, R13, R15, R20, R33,
+                                           R47
+| 470                               2      R17, R22
+| 680                               2      R14, R44
+| 1k                                4      R10, R16, R21, R42
+| 2.2k                              4      R6, R11, R12, R35
+| 3.3k                              3      R2, R38, R43
+| 4.7k                              4      R34, R41, R45, R46
+| 10k                               5      R19, R31, R32, R37, R39
+| 22k                               2      R25, R28
+| 47k                               1      R30
+| 100k                              10     R3, R4, R7, R8, R18, R23,
+                                           R24, R26, R27, R40    
+
+Potentiometers
+| 1k trim                           1      R36                              Vishay TS53YL102MR10
+| 10k audio                         1      R29                              Alpha RV16AF-10-15S1-A10K
+| 100k linear                       1      R1                               Alpha RV16AF-10-15R1-B100K
+
+Transformers
+| FT37-43 6T:20T                    1      T1
+
+Crystals        
+| 4.032 MHz                         4      X1, X2, X3, X4                   ECS-40.3-20-5PX-TR
+| 11.059 MHz                        2      X5, X6                           Abracon ABLS-11.0592MHZ-B4-T
+
+Miscellaneous
+| Red Magnet Wire, 28 AWG (feet)    5
+| Green Magnet Wire, 28 AWG (feet)  1
+| PCB
